@@ -28,3 +28,4 @@ public class GrumpyBookstoreOwner {
         return satisfied + maxSum;
     }
 }
+
